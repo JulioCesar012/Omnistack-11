@@ -35,7 +35,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 - Ok, você tem o aplicativo rodando, logo após iniciar o frontend você será redirecionado para o navegador e poderá testar o aplicativo
 
 
-##  Observation:
+## 🕵️ Observation:
 
 📦 Caso o banco de dados sqlite esteja corrompido ou inválido, delete ele na pasta database (no backend), delete o arquivo db.sqlite
 
