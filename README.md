@@ -22,7 +22,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 - ✅ O projeto tem como objetivo
 
 
-## 🔥 Executando projeto
+## ⚙️ Executando projeto
 
 - Você precisa configurar todo o ambiente react.js e o node
 
