@@ -10,7 +10,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 # 📄 Selecione uma opção:
 
 ⚒️ [Sobre](#-sobre)
-⚒️ [Executando o projeto](#-execute-o-projeto)
+⚒️ [Executando o projeto](#-execute-projeto)
 ⚒️ [Tecnologias Utilizadas](#-tecnologias-usadas)
 
 ---
@@ -23,7 +23,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 ---
 
-## 🖥️ Execute o projeto
+## 🖥️ Execute projeto
 
 🔲 Você precisa configurar todo o ambiente react.js e o node
 
