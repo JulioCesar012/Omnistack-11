@@ -7,15 +7,17 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
     <img src="/screenshots/casoscadastrados.png">
 </h1>
 
-# 📄 Selecione uma opção:
-
 📷 [Imagens](#-outras-imagens)
+
+---
 
 ## ℹ️ Sobre o projeto
 
 - ✅ Desenvolvido para fins educacionais,durante a semana omnistack 11, baixe e instale as dependências!
 
 - ✅ O projeto tem como objetivo
+
+---
 
 ## ⚙️ Execute o projeto
 
@@ -31,9 +33,13 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 ❗ Observação: Verifique se as portas do backend estão corretas.
 
+---
+
 ## 🕵️ Observation:
 
 📦 Caso o banco de dados sqlite esteja corrompido ou inválido, delete ele na pasta database (no backend), delete o arquivo db.sqlite
+
+---
 
 ## 🔥 Tecnologias usadas
 
@@ -45,7 +51,9 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 - Express
 - react-router-dom
 
-## Outras Imagens
+---
+
+## 🔥 Outras Imagens
 
 <h2 align="center">
     <img src="/screenshots/cadastro.png">
