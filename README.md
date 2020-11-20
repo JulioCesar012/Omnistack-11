@@ -34,7 +34,6 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 - Ok, você tem o aplicativo rodando, logo após iniciar o frontend você será redirecionado para o navegador e poderá testar o aplicativo
 
-❗Observação: Verifique se as portas do backend estão corretas
 
 ## :detective: Observation:
 
