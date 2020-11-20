@@ -72,7 +72,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 <h5 align="left">
     <img src="/screenshots/mobilelistcasos.jpeg" height="400">
-    <img src="/screenshots/initialmobile.jpeg" height="400" align="right">
+    <img src="/screenshots/initialmobile.jpeg" height="400" align="left">
 </h5>
 
 ## 👨‍💻 Contribuidor
