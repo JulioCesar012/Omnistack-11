@@ -35,7 +35,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 ---
 
-## 🕵️ Observation:
+## 🕵️ Observação:
 
 📦 Caso o banco de dados sqlite esteja corrompido ou inválido, delete ele na pasta database (no backend), delete o arquivo db.sqlite
 
@@ -73,7 +73,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 <h5 align="left">
     <img src="/screenshots/mobilelistcasos.jpeg" height="400">
-    <img src="/screenshots/initialmobile.jpeg" height="400" align="right">
+    <img src="/screenshots/initialmobile.jpeg" height="400">
 </h5>
 
 ## 👨‍💻 Contribuidor
