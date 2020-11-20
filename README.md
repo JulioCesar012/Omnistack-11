@@ -23,15 +23,10 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 
 ## 🖥️ Executando projeto
-
-- Você precisa configurar todo o ambiente react.js e o node
-
+- Você precisa configurar todo o ambiente react e o node
 - Faça o download das depências em ambos ambientes (backend e frontend) utilizando npm install ou yarn install
-
 - Vá para o back-end do projeto e inicie com npm start
-
 - Em seguida, com a inicie o frontend com yarn start 
-
 - Ok, você tem o aplicativo rodando, logo após iniciar o frontend você será redirecionado para o navegador e poderá testar o aplicativo
 
 
