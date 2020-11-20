@@ -9,13 +9,13 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 # 📄 Selecione uma opção:
 
-⚒️ [Sobre](#-sobre-o-projeto)
+⚒️ [Sobre](#-sobre)
 ⚒️ [Executando o projeto](#-execute-o-projeto)
 ⚒️ [Tecnologias Utilizadas](#-tecnologias-usadas)
 
 ---
 
-## ℹ️ Sobre o projeto
+## ℹ️ Sobre
 
 - ✅ Desenvolvido para fins educacionais,durante a semana omnistack 11, baixe e instale as dependências!
 
