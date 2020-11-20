@@ -9,9 +9,9 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 # 📄 Selecione uma opção:
 
-- ⚒️[Sobre](#-sobre)
-- ⚒️[Executando o projeto](#-execute)
-- ⚒️[Tecnologias Utilizadas](#-tecnologias-usadas)
+- ⚒️ [Sobre](#-sobre)
+- ⚒️ [Executando o projeto](#-execute)
+- ⚒️ [Tecnologias Utilizadas](#-tecnologias-usadas)
 
 
 
