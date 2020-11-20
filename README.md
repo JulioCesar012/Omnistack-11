@@ -9,20 +9,20 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 # 📄 Selecione uma opção:
 
-- ⚒️[Sobre](#-sobre-o-projeto)
-- ⚒️[Executando o projeto](#-execute-o-projeto)
+- ⚒️[Sobre](#-sobre)
+- ⚒️[Executando o projeto](#-execute)
 - ⚒️[Tecnologias Utilizadas](#-tecnologias-usadas)
 
 
 
-## ℹ️ Sobre o projeto
+## ℹ️ Sobre
 
 - ✅ Desenvolvido para fins educacionais,durante a semana omnistack 11, baixe e instale as dependências!
 
 - ✅ O projeto tem como objetivo
 
 
-## ⚙️ Execute o projeto
+## ⚙️ Execute
 
 🔲 Você precisa configurar todo o ambiente react.js e o node
 
