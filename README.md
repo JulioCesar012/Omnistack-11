@@ -10,31 +10,31 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 # 📄 Selecione uma opção:
 
 - ⚒️ [Sobre](#-sobre)
-- ⚒️ [Executando o projeto](#-execute)
+- ⚒️ [Executando projeto](#-executando-projeto)
 - ⚒️ [Tecnologias Utilizadas](#-tecnologias-usadas)
 
 
 
 ## ℹ️ Sobre
 
-- ✅ Desenvolvido para fins educacionais,durante a semana omnistack 11, baixe e instale as dependências!
+- ✅ Desenvolvido para fins educacionais,durante a semana omnistack 11, baixe e instale as dependências
 
 - ✅ O projeto tem como objetivo
 
 
-## Execute
+## Executando projeto
 
 - 🔲 Você precisa configurar todo o ambiente react.js e o node
 
-- 🔲 Faça o download das depências em ambos ambientes (backend e frontend) utilizando npm install ou yarn install.
+- 🔲 Faça o download das depências em ambos ambientes (backend e frontend) utilizando npm install ou yarn install
 
 - 🔲 Vá para o back-end do projeto e inicie com npm start
 
 - 🔲 Em seguida, com a inicie o frontend com yarn start 
 
-- 🔲 Ok, você tem o aplicativo rodando, logo após iniciar o frontend você será redirecionado para o navegador e poderá testar o aplicativo.
+- 🔲 Ok, você tem o aplicativo rodando, logo após iniciar o frontend você será redirecionado para o navegador e poderá testar o aplicativo
 
-❗ Observação: Verifique se as portas do backend estão corretas.
+-❗ Observação: Verifique se as portas do backend estão corretas
 
 ## :detective: Observation:
 
