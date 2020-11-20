@@ -15,7 +15,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 - ✅ Desenvolvido para fins educacionais,durante a semana omnistack 11, baixe e instale as dependências!
 
-- ✅ O projeto tem como objetivo
+- ✅ O projeto tem como objetivo utilizar o recurso de Drag'n Drop presente em algumas plataformas com cards arrastantes
 
 ---
 
