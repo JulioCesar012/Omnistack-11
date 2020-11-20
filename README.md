@@ -18,7 +18,6 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 ## ℹ️ Sobre
 
 - ✅ Desenvolvido para fins educacionais,durante a semana omnistack 11, baixe e instale as dependências
-
 - ✅ O projeto tem como objetivo
 
 
