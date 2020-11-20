@@ -7,15 +7,17 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
     <img src="/screenshots/casoscadastrados.png">
 </h1>
 
-# 📄 Selecione uma opção:
+# 📄 Selecione uma opção
 
 ⚒️ [Sobre](#-sobre)
-⚒️ [Executando o projeto](#-execute-projeto)
-⚒️ [Tecnologias Utilizadas](#-tecnologias-usadas)
+
+⚒️ [Execute](#-execute)
+
+⚒️ [Tecnologias Utilizadas](#-tecnologias-utilizadas)
 
 ---
 
-## :information_source:  Sobre
+## :information_source: Sobre
 
 - Desenvolvido para fins educacionais,durante a semana omnistack 11, baixe e instale as dependências!
 
@@ -23,19 +25,14 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 ---
 
-## 🖥️ Execute projeto
+## 🖥️ Execute
 
-🔲 Você precisa configurar todo o ambiente react.js e o node
-
-🔲 Faça o download das depências em ambos ambientes (backend e frontend) utilizando npm install ou yarn install.
-
-🔲 Vá para o back-end do projeto e inicie com npm start
-
-🔲 Em seguida, com a inicie o frontend com yarn start 
-
-🔲 Ok, você tem o aplicativo rodando, logo após iniciar o frontend você será redirecionado para o navegador e poderá testar o aplicativo.
-
-❗ Observação: Verifique se as portas do backend estão corretas.
+- Você precisa configurar todo o ambiente react.js e o node
+- Faça o download das depências em ambos ambientes (backend e frontend) utilizando npm install ou yarn install.
+- Vá para o back-end do projeto e inicie com npm start
+- Em seguida, com a inicie o frontend com yarn start 
+- Ok, você tem o aplicativo rodando, logo após iniciar o frontend você será redirecionado para o navegador e poderá testar o aplicativo.
+- Observação: Verifique se as portas do backend estão corretas.
 
 ---
 
@@ -45,7 +42,7 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 
 ---
 
-## 🔥 Tecnologias usadas
+## 🔥 Tecnologias utilizadas
 - ReactJS
 - NodeJS
 - Styled Components
@@ -53,6 +50,8 @@ Projetos da Semana Omnistack 11.0, Backend, Frontend e Mobile.
 - Cors
 - Express
 - react-router-dom
+
+---
 
 <h2>Outras Imagens:<h2>
 
